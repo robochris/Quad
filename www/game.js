@@ -60,7 +60,6 @@ function init() {
   }
 
   intervalId = window.setInterval(tick, 50);
-  alert(canvas.width, canvas.height);
 }
 
 function reinit() {
